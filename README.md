@@ -1,8 +1,6 @@
 # Test data based on Cichy et al., 2011
 
-This directory contains data that can be used to test the implementation
-of ['Permutation-based prevalence inference using the minimum
-statistic'](https://github.com/allefeld/prevalence-permutation). It was
+This data set, `cichy-2011-category-smoothedaccuracy`,  was
 derived from the data acquired by Cichy, Chen & Haynes (*NeuroImage*
 2011; used with permission) following the procedure described by
 Allefeld, Görgen & Haynes (*NeuroImage* 2016):
@@ -33,8 +31,12 @@ The index 1 corresponds to the neutral permutation, i.e. unpermuted
 data. The files are MR images in gzipped NIfTI format containing the
 smoothed accuracy values.
 
-This data set, `cichy-2011-category-smoothedaccuracy`, is made available
-under the [Open Database
+The data set is intended to test the implementation
+of ['Permutation-based prevalence inference using the minimum
+statistic'](https://github.com/allefeld/prevalence-permutation),
+but may be used for other purposes as well.
+
+This data set is made available under the [Open Database
 License](http://opendatacommons.org/licenses/odbl/1.0/). Any rights in
 individual contents of the database are licensed under the [Database
 Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).
