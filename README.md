@@ -36,7 +36,8 @@ of ['Permutation-based prevalence inference using the minimum
 statistic'](https://github.com/allefeld/prevalence-permutation),
 but may be used for other purposes as well.
 
-This data set is made available under the [Open Database
+This data set is copyrighted © 2016 by Carsten Allefeld. It is released
+under the terms of the [Open Database
 License](http://opendatacommons.org/licenses/odbl/1.0/). Any rights in
 individual contents of the database are licensed under the [Database
 Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).
