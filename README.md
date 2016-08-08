@@ -1,4 +1,4 @@
-# Test data based on Cichy et al., 2011
+# Test data based on Cichy et al. (2011)
 
 This data set, `cichy-2011-category-smoothedaccuracy`,  was
 derived from the data acquired by Cichy, Chen & Haynes (*NeuroImage*
@@ -26,7 +26,7 @@ Allefeld, Görgen & Haynes (*NeuroImage* 2016):
 In particular, these are the results for classification of stimulus
 category. The directory has 12 subdirectories corresponding to the
 subjects, and each contains 16 files with filenames of the form
-`sa_C0002_Pxxxx.nii.gz`, where `xxxx` is the index of the permutation.
+`sa_C0002_P####.nii.gz`, where `####` is the index of the permutation.
 The index 1 corresponds to the neutral permutation, i.e. unpermuted
 data. The files are MR images in gzipped NIfTI format containing the
 smoothed accuracy values.
